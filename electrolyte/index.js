@@ -1,5 +1,3 @@
-
-
 var injector = require('./injector.js');
 
 var routes = injector.create('routes');
