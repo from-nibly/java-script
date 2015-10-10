@@ -1,0 +1,17 @@
+{
+  "name": "java-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electrolyte": "0.0.6",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1",
+    "uuid": "^2.0.1"
+  }
+}
